@@ -5,7 +5,7 @@
 ```sh
 ghci Main.hs
 
-> dice
+ghci> dice
 1 | 17%
 2 | 17%
 3 | 17%
