@@ -1,5 +1,5 @@
 {
-  description = "A haskell template";
+  description = "probability-table";
 
   inputs = {
     nixpkgs.url = "github:NixOS/nixpkgs/nixpkgs-unstable";
@@ -16,7 +16,7 @@
 
         haskellPackages = pkgs.haskellPackages;
 
-        packageName = "a-haskell-template";
+        packageName = "probability-table";
       in
       {
         packages.${packageName} =

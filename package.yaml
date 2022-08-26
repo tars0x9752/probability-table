@@ -1,5 +1,5 @@
 dependencies:
   - base == 4.*
 executables:
-  a-haskell-template:
+  probability-table:
     main: Main.hs
